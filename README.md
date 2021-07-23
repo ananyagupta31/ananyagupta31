@@ -1,7 +1,6 @@
  Hi, I’m Ananya Gupta
  I’m interested in Fashion Desgining
  I’m currently learning Fashion Desgining
- I’m looking to collaborate on Fashion Houses
  How to reach me ananya31gupta@gmail.com.
 
 <!---
